@@ -20,3 +20,4 @@ This profile is my hands-on playground where I:
 - Expanding Kubernetes homelab (`pi-cluster`)
 - Automating deployments with GitOps principles
 - Mastering cloud-native workflows
+- Implementing IaC with Terraform
