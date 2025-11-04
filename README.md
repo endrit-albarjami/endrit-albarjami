@@ -1,7 +1,7 @@
 # Hi there, welcome to my GitHub profile! 👋
 
 I'm Endrit Albarjami, a passionate **DevOps & Cloud Engineer** 🚀☁️  
-I specialize in building efficient **CI/CD pipelines**, managing **Linux environments**, working with **Terraform, Kubernetes, AWS, and Google Cloud**, and exploring automation solutions.
+I specialize in building efficient **CI/CD pipelines**, managing **Linux environments**, working with **Terraform, Kubernetes, AWS, Azure and Google Cloud**, and exploring automation solutions.
 
 This profile is my hands-on playground where I:
 - Build and manage cloud infrastructure
