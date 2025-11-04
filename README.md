@@ -13,7 +13,7 @@ This profile is my hands-on playground where I:
 - **Linux System Administration** for robust and secure environments
 - **Terraform** for Infrastructure as Code
 - **Kubernetes** for orchestration
-- **AWS & Google Cloud** for cloud deployments
+- **AWS, Azure and Google Cloud** for cloud deployments
 - **Jenkins** for CI/CD automation
 
 ## 🌱 Current Focus
